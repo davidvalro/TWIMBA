@@ -1,6 +1,6 @@
-# 🐦 Twimba: Clon Funcional de Microblogging en JavaScript
+# 🐦 Twimba: Clon Funcional de Twitter en JavaScript
 
-Este repositorio alberga el proyecto **Twimba**, una aplicación funcional que simula una plataforma de microblogging (similar a Twitter). Fue desarrollado como parte de mi formación en la ruta de **Desarrollo Frontend de Scrimba**, construido exclusivamente con **JavaScript Vanilla, HTML y CSS**.
+Este repositorio alberga el proyecto **Twimba**, una aplicación funcional que simula una plataforma similar a Twitter. Fue desarrollado como parte de mi formación en la ruta de **Desarrollo Frontend de Scrimba**, construido exclusivamente con **JavaScript Vanilla, HTML y CSS**.
 
 La finalización de este proyecto fue fundamental para **consolidar y demostrar mis habilidades en el desarrollo web dinámico y frontend**.
 
