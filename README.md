@@ -1,8 +1,8 @@
-# 🐦 Twimba: Clon Funcional de Twitter en JavaScript
+# Twimba: Clon Funcional de Twitter en JavaScript
 
-## 🚀 Simulación de Red Social y DOM Dinámico
+## Simulación de Red Social y DOM Dinámico
 
-### 📝 Descripción del Proyecto
+### Descripción del Proyecto
 
 **Twimba** es una aplicación web funcional que simula una plataforma de microblogging similar a Twitter. Fue construida exclusivamente con **JavaScript Vanilla, HTML y CSS**.
 
@@ -10,7 +10,7 @@ Este proyecto sirvió como una demostración completa de habilidades en el **des
 
 ---
 
-## 🌟 Funcionalidades Clave y Habilidades Técnicas
+## Funcionalidades Clave y Habilidades Técnicas
 
 | Característica | Detalle Técnico / Implementación | Archivos Clave |
 | :--- | :--- | :--- |
@@ -23,7 +23,7 @@ Este proyecto sirvió como una demostración completa de habilidades en el **des
 
 ---
 
-## 💻 Stack Tecnológico
+## Stack Tecnológico
 
 * **Lógica Principal:** JavaScript (Vanilla)
 * **Estructura:** HTML5
@@ -33,7 +33,7 @@ Este proyecto sirvió como una demostración completa de habilidades en el **des
 
 ---
 
-## 🚀 Cómo Empezar (Guía de Ejecución Local)
+## Cómo Empezar (Guía de Ejecución Local)
 
 Para visualizar y ejecutar el proyecto en tu máquina local:
 
@@ -49,6 +49,3 @@ npm install
 npm start
 # o npm run dev
 ```
-### 👨‍💻 Nota del Desarrollador
-
-Este proyecto fue un ejercicio crucial para solidificar la separación entre la **Vista** (HTML/CSS) y el **Modelo/Controlador** (JavaScript). El manejo de eventos centralizado mediante **data-attributes** y la **delegación de eventos** (`e.target.dataset.`) es la clave de la aplicación. Esto minimiza la necesidad de añadir *listeners* a cada elemento individual y demuestra un entendimiento sólido de cómo construir interfaces complejas y eficientes con JavaScript puro.
